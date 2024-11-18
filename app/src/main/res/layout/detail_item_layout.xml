@@ -10,12 +10,14 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="1"
+        android:textColor="@color/white"
         android:text="Sin asignar" />
     <TextView
         android:id="@+id/txvPrecioGasto"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
+        android:textColor="@color/white"
         android:text="Sin asignar" />
     <TextView
         android:id="@+id/txvCantidadGasto"
@@ -23,6 +25,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
         android:layout_weight="1"
+        android:textColor="@color/white"
         android:text="Sin asignar" />
     <TextView
         android:id="@+id/txvSubtotalGasto"
@@ -31,6 +34,7 @@
         android:layout_marginTop="10dp"
         android:layout_marginBottom="10dp"
         android:layout_weight="1"
+        android:textColor="@color/white"
         android:text="Sin asignar" />
     <View
         android:id="@+id/vSeparator"

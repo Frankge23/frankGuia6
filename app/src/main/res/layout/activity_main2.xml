@@ -7,6 +7,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:background="@drawable/fondomadera"
+        android:textColor="@color/white"
         tools:context=".UI.MainActivity2">
 
 
